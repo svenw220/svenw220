@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
   🛠️ Tech Stack
 - Core Languages: Python, TypeScript/Javascript, Solidity
 - Back-end Frameworks: Flask, Django, Express.js, NestJS, Laravel
+- Front-end Frameworks & Libraries: Vue2/3, Angular15+, React, Svelte, NgRX, Vuex, Pinia, Redux
 - Databases: AWS DynamoDB, MySQLi, MySQL, MongoDB, PostgreSQL, Redis
 - Cloud Platforms: AWS, Digital Ocean, Heroku
 - Mobile: ReactNative, iONIC, Flutter
